@@ -29,6 +29,8 @@ This is an example of how it should look like:
 
 ![password generator](https://user-images.githubusercontent.com/98554034/157311744-1d9748d0-2e13-470d-bb67-c857fbdf978d.PNG)
 
-Disclamer:
 
-I messed up my first resposity with all my commits and work done. Please reference https://github.com/haleytelega/Password-Generator if you want to look at my work that was done. It is all done in the password-length branch.
+
+Disclaimer:
+
+I messed up my first repository with all my commits and work done. Please reference https://github.com/haleytelega/Password-Generator if you want to look at my work that was done. It is all done in the password-length branch.
